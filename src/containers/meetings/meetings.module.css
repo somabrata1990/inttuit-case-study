@@ -1,0 +1,20 @@
+.header {
+    margin: 50px 40%;
+}
+
+.section {
+    height: 100px;
+}
+
+.border {
+    border: 2px black solid;
+}
+
+.selected {
+    background-color: blue;
+}
+
+.displayFlex {
+    display: flex;
+    justify-content: space-between;
+}
